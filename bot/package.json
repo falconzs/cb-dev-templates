@@ -1,0 +1,12 @@
+{
+  "name": "my-bot",
+  "version": "0.0.1",
+  "dependencies": {
+    "cb-framework": "falconzs/cb-framework",
+    "cb-plugin-cleaner": "falconzs/cb-plugin-cleaner"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-webpack": "^1.0.11"
+  }
+}
