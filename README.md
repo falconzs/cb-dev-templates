@@ -23,6 +23,8 @@
 5. Run `grunt webpack`
 6. Copy the contents of `bundle.js` to CB and test your new Bot
 
+What to do next. Either install more plugins to complete the bot functionality or create your own plugin.
+
 ### Creating a Plugin
 
 1. Todo
