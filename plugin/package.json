@@ -1,0 +1,13 @@
+{
+    "name": "example-plugin",
+    "version": "0.0.1",
+    "description": "My example plugin.",
+    "author": {
+        "name": "Authors Name"
+    },
+    "main": "src/index.js",
+    "peerDependencies": {
+        "cb-framework": ">=0.0.1",
+        "define-class": ">=0.0.2"
+    }
+}
